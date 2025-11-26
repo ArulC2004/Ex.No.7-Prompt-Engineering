@@ -1,7 +1,7 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:14-11-2025
-# Register No: 212222100015
+# Name: ARUL C
+# Register No: 212222030003
 # Aim:
 
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
